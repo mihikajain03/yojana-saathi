@@ -4,8 +4,7 @@ Yojana Saathi helps Indian citizens discover central government schemes
 they are eligible for, and explains them in simple language through an
 AI chatbot.
 
-**Live website:** [PASTE VERCEL URL HERE]
-
+**Live website:** https://yojana-saathi-three.vercel.app/
 ## Problem Statement
 India has thousands of government schemes (scholarships, agriculture,
 healthcare, housing, education loans), but many eligible citizens are
