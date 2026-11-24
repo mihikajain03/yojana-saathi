@@ -50,7 +50,20 @@ The API key is stored only as a server-side environment variable and
 is never exposed in the frontend.
 
 ## Screenshots
-[ADD SCREENSHOTS HERE]
+### Home Page
+![Home page](screenshots/home.png)
+
+### Find Schemes (Eligibility Form)
+![Eligibility form](screenshots/find-form.png)
+
+### Results
+![Results page](screenshots/results.png)
+
+### Scheme Details
+![Scheme details](screenshots/scheme-detail.png)
+
+### AI Chatbot
+![AI chatbot](screenshots/chatbot.png)
 
 ## Prompt Documentation
 See [PROMPTS.md](PROMPTS.md) for the initial five-part prompt, follow-up
@@ -81,4 +94,5 @@ Scheme information is for awareness only. Always verify details on the
 official government websites before applying.
 
 ## Team
-[ADD TEAM MEMBER NAMES]
+- Mihika Jain
+- Divya Garg
