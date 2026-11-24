@@ -93,7 +93,7 @@ Return the answer as: Problem / Cause / Fix / Files changed.
   learned to test the AI's output ourselves instead of trusting its
   claim.
 
-![Error fix prompt in Bolt](screenshots/bolt-error-fix.png)
+![Error fix prompt in Bolt](bolt-error-fix.png)
 
 ### Prompt 2: Theme, stats and chatbot cleanup (Chain prompting)
 - **Tool:** Bolt.new
@@ -123,7 +123,7 @@ After each step, tell me which files changed.
   function later made the Cursor integration easier, because only one
   file had to change.
 
-![Chain prompt in Bolt](screenshots/bolt-chain-prompt.png)
+![Chain prompt in Bolt](bolt-chain-prompt.png)
 
 ### Prompt 3: Form validation (Structured + Chain + Prompt refinement)
 - **Tool:** Bolt.new
@@ -153,7 +153,7 @@ Return the answer as: Problem / Cause / Fix / Files changed.
 - **After:** All 5 fields are required with inline error messages, and
   results appear only after valid input.
 
-![Form validation prompt in Bolt](screenshots/bolt-form-validation.png)
+![Form validation prompt in Bolt](bolt-form-validation.png)
 
 ### Prompt 4: Chatbot integration (Role + Context + Constraints + Structured)
 - **Tool:** Cursor
